@@ -1,0 +1,245 @@
+{
+  "clients": {
+    "open": [
+      {
+        "id": 1,
+        "EmpId": "E1123",
+        "EmpName": "JohnDoe",
+        "customerId": "GUD234",
+        "companyName": "FinyWealth",
+        "state": "AndhraPradesh",
+        "lat": 12.795904,
+        "lan": 80.0292864,
+        "date": "2023-10-01",
+        "time": "10:00 AM",
+        "questionId": "1",
+        "questions": [
+          {
+            "questionId": "1",
+            "question": "1 Whether all clients are registered directly with the Trading Member only.",
+            "message": "this is answer",
+            "Image": "",
+            "type": "Dealing with clients",
+            "data": "2025-02-12T10:56:31.637Z",
+            "time": "4:26:31 PM",
+            "AppSessionId": "120225162631",
+            "qStatus": false
+          },
+          {
+            "questionId": "1",
+            "question": "1 Whether all clients are registered directly with the Trading Member only.",
+            "message": "this is answer",
+            "Image": "",
+            "type": "Dealing with clients",
+            "data": "2025-02-12T10:56:31.637Z",
+            "time": "4:26:31 PM",
+            "AppSessionId": "120225162666",
+            "qStatus": false
+          },
+          {
+            "questionId": "1",
+            "question": "1 Whether all clients are registered directly with the Trading Member only.",
+            "message": "this is answer",
+            "Image": "",
+            "type": "Dealing with clients",
+            "data": "2025-02-12T10:56:31.63222",
+            "time": "4:26:31 PM",
+            "AppSessionId": "120225162631",
+            "qStatus": false
+          },
+          {
+            "questionId": "1",
+            "question": "1 Whether all clients are registered directly with the Trading Member only.",
+            "message": "this is answer",
+            "Image": "",
+            "type": "Dealing with clients",
+            "data": "2025-02-12T10:56:31.637Z",
+            "time": "4:26:31 PM",
+            "AppSessionId": "1202251626222",
+            "qStatus": false
+          },
+          {
+            "questionId": "1",
+            "question": "1 Whether all clients are registered directly with the Trading Member only.",
+            "message": "this is answer",
+            "Image": "",
+            "type": "Dealing with clients",
+            "data": "2025-02-12T10:56:31.637Z",
+            "time": "4:26:31 PM",
+            "AppSessionId": "120225162600",
+            "qStatus": false
+          },  {
+            "questionId": "1",
+            "question": "1 Whether all clients are registered directly with the Trading Member only.",
+            "message": "this is answer",
+            "Image": "",
+            "type": "Dealing with clients",
+            "data": "2025-02-12T10:56:31.637Z",
+            "time": "4:26:31 PM",
+            "AppSessionId": "120225162667",
+            "qStatus": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "EmpId": "E1001",
+        "EmpName": "Michal",
+        "customerId": "GUD001",
+        "companyName": "Company 2",
+        "state": "tamil Nadu",
+        "lat": 12.795904,
+        "lan": 80.0292864,
+        "date": "2023-10-02",
+        "time": "11:00 AM",
+        "questionId": "1",
+        "questions": [
+          {
+            "questionId": "1",
+            "question": "1 Whether all clients are registered directly with the Trading Member only.",
+            "message": "",
+            "Image": "This is message",
+            "type": "Dealing with clients",
+            "data": "2025-02-12T10:56:31.637Z",
+            "time": "4:26:31 PM",
+            "AppSessionId": "120225162631",
+            "qStatus": false
+          },  {
+            "questionId": "2",
+            "question": "2 There is no movement of Funds and securities between the clients and AP.",
+            "message": "",
+            "Image": "",
+            "type": "Dealing with clients",
+
+            "data": "2025-02-12T10:56:31.637Z",
+            "time": "4:26:31 PM",
+            "AppSessionId": "120225162631",
+            "qStatus": false
+          }
+        ]
+      }
+    ],
+    "completed": [
+      {
+        "id": 2,
+        "EmpId": "E1123",
+        "EmpName": "JohnDoe",
+        "customerId": "GUD234",
+        "companyName": "FinyWealth",
+        "state": "AndhraPradesh",
+        "lat": 12.795904,
+        "lan": 80.0292864,
+        "date": "2023-10-02",
+        "time": "11:00 AM",
+        "questionId": "1",
+        "questions": [
+          {
+            "questionId": "1",
+            "question": "1 Whether all clients are registered directly with the Trading Member only.",
+            "message": "",
+            "Image": "",
+            "type": "Dealing with clients",
+            "data": "2025-02-12T10:56:31.637Z",
+            "time": "4:26:31 PM",
+            "AppSessionId": "120225162631",
+            "qStatus": false
+          }
+        ]
+      }
+    ],
+    "approved": [
+      {
+        "id": 3,
+        "EmpId": "E1123",
+        "EmpName": "JohnDoe",
+        "customerId": "GUD234",
+        "companyName": "FinyWealth",
+        "state": "AndhraPradesh",
+        "lat": 12.795904,
+        "lan": 80.0292864,
+        "date": "2023-10-03",
+        "time": "12:00 PM",
+        "questionId": "1",
+        "questions": [
+          {
+            "questionId": "1",
+            "question": "1 Whether all clients are registered directly with the Trading Member only.",
+            "message": "",
+            "Image": "",
+            "type": "Dealing with clients",
+
+            "data": "2025-02-12T10:56:31.637Z",
+            "time": "4:26:31 PM",
+            "AppSessionId": "120225162631",
+            "qStatus": false
+          }
+        ]
+      }
+    ],
+    "rejected": [
+      {
+        "id": 4,
+        "EmpId": "E1123",
+        "EmpName": "JohnDoe",
+        "customerId": "GUD234",
+        "companyName": "FinyWealth",
+        "state": "AndhraPradesh",
+        "lat": 12.795904,
+        "lan": 80.0292864,
+        "date": "2023-10-04",
+        "time": "01:00 PM",
+        "questionId": "4",
+        "questions": [
+          {
+            "questionId": "1",
+            "question": "1 Whether all clients are registered directly with the Trading Member only.",
+            "message": "",
+            "Image": "",
+            "type": "Dealing with clients",
+
+            "data": "2025-02-12T10:56:31.637Z",
+            "time": "4:26:31 PM",
+            "AppSessionId": "120225162631",
+            "qStatus": false
+          },
+          {
+            "questionId": "2",
+            "question": "2 There is no movement of Funds and securities between the clients and AP.",
+            "message": "",
+            "Image": "",
+            "type": "Dealing with clients",
+
+            "data": "2025-02-12T10:56:31.637Z",
+            "time": "4:26:31 PM",
+            "AppSessionId": "120225162631",
+            "qStatus": false
+          },
+          {
+            "questionId": "3",
+            "question": "3 There are no fixed payments at regular intervals to the clients mapped to AP.",
+            "message": "",
+            "Image": "",
+            "type": "Dealing with clients",
+
+            "data": "2025-02-12T10:56:31.637Z",
+            "time": "4:26:31 PM",
+            "AppSessionId": "120225162631",
+            "qStatus": false
+          },
+          {
+            "questionId": "4",
+            "question": "4 There are no cash dealings done with clients by AP.",
+            "message": "",
+            "Image": "",
+            "type": "Dealing with clients",
+
+            "data": "2025-02-12T10:56:31.637Z",
+            "time": "4:26:31 PM",
+            "AppSessionId": "120225162631",
+            "qStatus": false
+          }
+        ]
+      }
+    ]
+  }
+}

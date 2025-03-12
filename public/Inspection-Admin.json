@@ -1,0 +1,159 @@
+//open 
+ [
+  {
+    "id": "21",
+    "EmpId": "E1123",
+    "EmpName": "JohnDoe",
+    "customerId": "GUD234",
+    "companyName": "FinyWealth",
+    "state": "AndhraPradesh",
+    "lat": 12.795904,
+    "lan": 80.0292864,
+    "type": "Dealing with clients",
+    "data": "2025-02-12T10:56:31.637Z",
+    "time": "4:26:31 PM",
+    "RAppId": "120225162631",
+    "status": "open",
+    "question": "1"
+  }
+]
+
+//closed 
+
+[
+    {
+    "id": "21",
+    "EmpId": "E1123",
+    "EmpName": "JohnDoe",
+    "customerId": "GUD234",
+    "companyName": "FinyWealth",
+    "state": "AndhraPradesh",
+    "lat": 12.795904,
+    "lan": 80.0292864,
+    "type": "Dealing with clients",
+    "data": "2025-02-12T10:56:31.637Z",
+    "time": "4:26:31 PM",
+    "RAppId": "120225162631",
+    "status": "closed",
+    "question": "33"
+  }
+]
+// approve
+[
+  {
+    "id": "21",
+    "EmpId": "E1123",
+    "EmpName": "JohnDoe",
+    "customerId": "GUD234",
+    "companyName": "FinyWealth",
+    "state": "AndhraPradesh",
+    "lat": 12.795904,
+    "lan": 80.0292864,
+    "type": "Dealing with clients",
+    "data": "2025-02-12T10:56:31.637Z",
+    "time": "4:26:31 PM",
+    "RAppId": "120225162631",
+    "status": "approved",
+    "question": "33"
+  }
+]
+
+
+// reject 
+[
+  {
+    "id": "21",
+    "EmpId": "E1123",
+    "EmpName": "JohnDoe",
+    "customerId": "GUD234",
+    "companyName": "FinyWealth",
+    "state": "AndhraPradesh",
+    "lat": 12.795904,
+    "lan": 80.0292864,
+    "type": "Dealing with clients",
+    "data": "2025-02-12T10:56:31.637Z",
+    "time": "4:26:31 PM",
+    "RAppId": "120225162631",
+    "status": "rejected",
+    "question": "33"
+  }
+]
+
+
+// get question side panel click
+[{
+  "questions": [
+    {
+      "questionId": "1",
+      "question": "1 Whether all clients are registered directly with the Trading Member only.",
+      "message": "",
+      "Image": "",
+      "type": "Dealing with clients",
+      "EmpId": "E1123",
+      "EmpName": "JohnDoe",
+      "customerId": "GUD234",
+      "companyName": "FinyWealth",
+      "state": "AndhraPradesh",
+      "lat": 12.795904,
+      "lan": 80.0292864,
+      "data": "2025-02-12T10:56:31.637Z",
+      "time": "4:26:31 PM",
+      "AppSessionId": "120225162631",
+      "qStatus": false
+    },
+    {
+      "questionId": "2",
+      "question": "2 There is no movement of Funds and securities between the clients and AP.",
+      "message": "",
+      "Image": "",
+      "type": "Dealing with clients",
+      "EmpId": "E1123",
+      "EmpName": "JohnDoe",
+      "customerId": "GUD234",
+      "companyName": "FinyWealth",
+      "state": "AndhraPradesh",
+      "lat": 12.795904,
+      "lan": 80.0292864,
+      "data": "2025-02-12T10:56:31.637Z",
+      "time": "4:26:31 PM",
+      "AppSessionId": "120225162631",
+      "qStatus": false
+    },
+    {
+      "questionId": "3",
+      "question": "3 There are no fixed payments at regular intervals to the clients mapped to AP.",
+      "message": "",
+      "Image": "",
+      "type": "Dealing with clients",
+      "EmpId": "E1123",
+      "EmpName": "JohnDoe",
+      "customerId": "GUD234",
+      "companyName": "FinyWealth",
+      "state": "AndhraPradesh",
+      "lat": 12.795904,
+      "lan": 80.0292864,
+      "data": "2025-02-12T10:56:31.637Z",
+      "time": "4:26:31 PM",
+      "AppSessionId": "120225162631",
+      "qStatus": false
+    },
+    {
+      "questionId": "4",
+      "question": "4 There are no cash dealings done with clients by AP.",
+      "message": "",
+      "Image": "",
+      "type": "Dealing with clients",
+      "EmpId": "E1123",
+      "EmpName": "JohnDoe",
+      "customerId": "GUD234",
+      "companyName": "FinyWealth",
+      "state": "AndhraPradesh",
+      "lat": 12.795904,
+      "lan": 80.0292864,
+      "data": "2025-02-12T10:56:31.637Z",
+      "time": "4:26:31 PM",
+      "AppSessionId": "120225162631",
+      "qStatus": false
+    }
+  ]}
+]
