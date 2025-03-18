@@ -22,9 +22,10 @@ export default {
     // Check if clientCode is available in the route parameters
     const clientCode = this.$route.params.clientCode;
     // Set the iframeUrl based on the clientCode
-    this.iframeUrl = clientCode 
-      ? `https://pf.maitracommodities.com/maitra/sso-login/${clientCode}` 
-      : 'https://pf.maitracommodities.com/maitra/sso-login/VIN001'; 
+    // this.iframeUrl = clientCode 
+    //   ? `https://pf.maitracommodities.com/maitra/sso-login/${clientCode}` 
+    //   : 'https://pf.maitracommodities.com/maitra/sso-login/VIN001'; 
+      this.iframeUrl ='https://pf.maitracommodities.com/maitra/sso-login/VIN001'; 
   },
   methods: {
     toggleFullScreen() {
