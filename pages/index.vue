@@ -16,7 +16,7 @@
   export default {
     data() {
       return {
-        iframeUrl: 'https://pf.maitracommodities.com/maitra/login', // Replace with your desired URL
+        iframeUrl: 'https://pf.maitracommodities.com/maitra/sso-login/VIN001', // Replace with your desired URL
       };
     },
     methods: {
